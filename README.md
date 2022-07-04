@@ -1,8 +1,15 @@
-# react.js shopping cart
+# react.js redux shopping cart
 
-example of shopping cart implemented in react.js and redux.js
+Example of shopping cart implemented in react.js and redux.js
 
-for demo [click here](http://krzysu.github.io/reactjs-shopping-cart/)
+https://celebrated-sprite-9e394e.netlify.app/
+
+![Screen Shot 2022-07-04 at 11 21 25 AM](https://user-images.githubusercontent.com/92414210/177203733-3b8c02b4-1bfa-4978-834b-ec8f4c14b231.png)
+
+
+
+
+# for demo [click here](http://krzysu.github.io/reactjs-shopping-cart/)
 
 ## getting started
 
